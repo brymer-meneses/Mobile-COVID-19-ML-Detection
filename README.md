@@ -19,7 +19,7 @@ Here is the confusion matrix that came from the evaluation of the model on the t
 2 - non-informative
 
 
-    The model detects an image that cannot be used to detect covid-19 infection
+    The model detects an image that cannot be used to make a conclusion.
 
 
 # Datasets used
