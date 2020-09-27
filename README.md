@@ -8,9 +8,9 @@ I have trained this model for a total of 12789 images from the following dataset
 
 # Datasets used
 
-https://github.com/mr7495/COVID-CTset
+Dataset1 -> https://github.com/mr7495/COVID-CTset
 
-https://www.kaggle.com/azaemon/preprocessed-ct-scans-for-covid19
+Dataset2 -> https://www.kaggle.com/azaemon/preprocessed-ct-scans-for-covid19
 
 # Disclaimer:
 
