@@ -6,6 +6,12 @@ I have trained this model for a total of 12789 images from the following dataset
 ![Confusion_Matrix](/images/confusion_matrix.png)
 
 
+![covid_detection](/images/covid_infected.png)
+![non_covid_detection](/images/covid_not_infected.png)
+![non_informative](/images/not_informative.png)
+
+
+
 # Datasets used
 
 https://github.com/mr7495/COVID-CTset
