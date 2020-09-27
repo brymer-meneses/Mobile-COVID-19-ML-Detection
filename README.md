@@ -8,10 +8,17 @@ Here is the confusion matrix that came from the evaluation of the model on the t
 ![Confusion_Matrix](/images/confusion_matrix.png)
 
 0 - covid-19 detected
+
+
     The model detects covid-19 infection
+    
 1 - covid-19 undetected 
+
+
     The model detects no signs of covid-19 infection
 2 - non-informative
+
+
     The model detects an image that cannot be used to detect covid-19 infection
 
 
