@@ -31,8 +31,7 @@ Dataset2 -> https://www.kaggle.com/azaemon/preprocessed-ct-scans-for-covid19
 
 # Disclaimer:
 
-The A.I. model used to run this application hasn't been tested on 'real world data' but only on open anonymized datasets online. Please bear this in mind when using this application.
-
+The A.I. model used to run this application hasn't been tested on 'real world data' but only on open anonymized datasets online. I haven't tested the model rigorously to guarantee it's safety.
 
 # Screenshots
 ![covid_detection](/images/covid_infected.png)
