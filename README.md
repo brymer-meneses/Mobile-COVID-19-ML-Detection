@@ -1,7 +1,8 @@
 # COVID19-AI-CT-Scan-Detection
 
 The model used by this application is a fine-tuned EfficientNet-Lite4 Model provided by TensorFlow Hub making it fast to run on mobile devices. 
-I have trained this model for a total of 12789 images from the following datasets below achieving a testing accuracy of 97.32%. 
+I have trained this model for a total of 12789 images from the following datasets below achieving a testing accuracy of 97.32%. For more information you can look at the
+raw code from '/Machine Learning Files/'.
 
 Here is the confusion matrix of the model which was evaluated on the testing dataset.
 ![Confusion_Matrix](/images/confusion_matrix.png)
