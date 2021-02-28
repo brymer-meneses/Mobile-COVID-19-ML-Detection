@@ -1,4 +1,4 @@
-# COVID19-AI-CT-Scan-Detection
+# Mobile-COVID-19-ML-Detection
 
 The model used by this application is a fine-tuned EfficientNet-Lite4 Model provided by TensorFlow Hub making it fast to run on mobile devices. 
 I have trained this model for a total of 12789 images from the following datasets linked below achieving a testing accuracy of 97.32%.
@@ -26,9 +26,8 @@ The model detects an image that cannot be used to make a conclusion.
 
 # Datasets used
 
-Dataset1 -> https://github.com/mr7495/COVID-CTset
-
-Dataset2 -> https://www.kaggle.com/azaemon/preprocessed-ct-scans-for-covid19
+[Dataset1](https://github.com/mr7495/COVID-CTset)
+[Dataset2](https://www.kaggle.com/azaemon/preprocessed-ct-scans-for-covid19)
 
 # Disclaimer:
 
