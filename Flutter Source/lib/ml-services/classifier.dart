@@ -11,7 +11,8 @@
 //    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 //    See the License for the specific language governing permissions and
 //    limitations under the License.
-//    Modified from: 
+//
+//    Taken from: 
 //    https://github.com/am15h/tflite_flutter_helper/blob/master/example/image_classification/lib/classifier.dart
 
 import 'dart:math';
